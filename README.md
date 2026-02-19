@@ -1,4 +1,5 @@
-# Teoria-Madre-Bustamante
+Teoria-Madre-Bustamante
+
 📜 MANIFIESTO DE INDEXACIÓN UNIVERSAL: TEORÍA MADRE (Σ=100)
 AUTOR: Albert de Jesús Bustamante Areiza
 REGISTRO TÉCNICO: T-M / BUSTAMANTE-2026
